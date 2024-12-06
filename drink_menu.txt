@@ -1,0 +1,10 @@
+Americano
+110
+Double Shot Americano
+130
+Latte
+150
+Cappuccino
+150
+Mocha
+165
